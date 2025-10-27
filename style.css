@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #00FFFF;
+    border-radius: 15px;
+    padding: 8px;
+}
+
+header a {
+    background-color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+h1 {
+    background-color: #00FFFF;
+    text-align: center;
+}
+
+footer {
+   background-color: rgb(241, 212, 169);
+   padding: 5px;
+}
+footer p {
+    background-color: white;
+    margin: 5px;
+}
+nav {
+    background-color: green;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+}
+
+.text {
+    background-color: rgb(255, 174, 24);
+    border-radius: 8px;
+    padding: 10px;
+}
+
+h2 {
+    color: blue;
+}
+
+p a {
+    border: blue solid 3px;
+    text-decoration: none;
+    padding: 5px;
+}
